@@ -1,4 +1,5 @@
-# MAPS<!DOCTYPE html>
+# MAPS
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
